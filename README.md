@@ -16,6 +16,8 @@ O resultado desse projeto é  uma consolidação de informações pertinentes as
 ![destino_bloco](https://user-images.githubusercontent.com/126826484/229635823-d93c72ac-66f7-478f-93b2-8e31b4aca86e.png)
 
 5.Investigação de sazonalidade, mês que mais se exporta:
+
+
 ![sazonalidade](https://user-images.githubusercontent.com/126826484/229636285-780d39a8-ada0-43da-a47f-56ba1163d023.png)
 
 
