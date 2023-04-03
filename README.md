@@ -1,5 +1,5 @@
 # Análise das exportações-1997-2022 com Pandas_Python
-Análise de dados com a biblioteca Pandas do Python das exportações do Brasil no período de 1997 a 2022.
+Análise de um grande volume de dados com a biblioteca Pandas do Python das exportações do Brasil no período de 1997 a 2022.
 Trata-se de um projeto com o objetivo de mostrar uma exploração básica de dados, através da criação de gráficos , elaboração de tabelas agregadas e o uso 
 de códigos para a boa prática da análise e tratamento de dados.
 
