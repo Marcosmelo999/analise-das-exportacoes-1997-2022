@@ -216,15 +216,15 @@ Tab_Geral_Pais_UF
 # In[387]:
 
 
-# Cria o gráfico de barras horizontais
+# Gráfico de barras horizontais
 Tab_Geral_Pais_UF.plot(x='SG_UF_NCM', y='VL_FOB',kind='bar', legend=True)
 
-# Define o título do gráfico e dos eixos
+# título do gráfico e dos eixos
 plot.title('Exportações por Estado 1997-2022')
 plot.xlabel('Estado')
 plot.ylabel('Valor FOB')
 
-# Exibe o gráfico
+# Exibir o gráfico
 plot.show()
 
 
@@ -315,7 +315,7 @@ Tab_Bloco = Tab_Bloco.reset_index()  #Faço o reset index para plotar o gráfico
 # In[399]:
 
 
-#Crie um gráfico de pizza com rótulos reduzidos
+#Gráfico de pizza com rótulos reduzidos
 fig, ax = plot.subplots()
 ax.pie(Tab_Bloco['VL_FOB'], labels=Tab_Bloco['NO_BLOCO'], autopct='%1.1f%%', textprops={'fontsize': 10})
 
@@ -326,7 +326,7 @@ plot.show()
 # In[ ]:
 
 
-#Conforme gráfico acima venos que temos O continente Europeu como bloco econômico de maior destino das exportações 
+#Conforme gráfico acima vemos que temos o continente Europeu como bloco econômico de maior destino das exportações 
 #seguido da Ásia.
 
 
